@@ -1,6 +1,7 @@
 import '../styles/utilities.css';
 import '../styles/homepage.css';
-import type { AppProps } from 'next/app'
+import '../styles/detail.css';
+import type { AppProps } from 'next/app';
 import Head from 'next/head';
 
 function MyApp({ Component, pageProps }: AppProps) {
