@@ -20,5 +20,9 @@
         "@typescript-eslint"
     ],
     "rules": {
+        "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx", ".ts", ".tsx"] }],
+        "react/react-in-jsx-scope": "off",
+        "space-before-blocks": "off",
+        "react/jsx-indent": "off"
     }
 }
