@@ -23,6 +23,7 @@
         "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx", ".ts", ".tsx"] }],
         "react/react-in-jsx-scope": "off",
         "space-before-blocks": "off",
-        "react/jsx-indent": "off"
+        "react/jsx-indent": "off",
+        "jsx-a11y/anchor-is-valid": "off"
     }
 }
